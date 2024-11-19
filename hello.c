@@ -10,3 +10,7 @@ printf("Hello git");
 return 0;
 }
 
+<<<<<<< HEAD
+=======
+printf("Hello git")
+>>>>>>> parent of 3978721 (Hello Intel)
