@@ -1,4 +1,12 @@
-studio.h
+#include <studio.h>
 
-printf("Hello git")
-printf("Hello Intel")
+eint main (void)
+{
+printf("Hello git");
+printf("Hello Intel");
+printf("Hello KCCI");
+printf("Hello git");
+printf("Nice to meet Git");
+
+return 0;
+}
