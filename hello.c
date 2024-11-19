@@ -2,4 +2,3 @@ studio.h
 
 printf("Hello git")
 printf("Hello Intel")
-printf("Hello KCCI")
